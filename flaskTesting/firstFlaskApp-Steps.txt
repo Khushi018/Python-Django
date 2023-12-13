@@ -1,0 +1,2 @@
+in the terminal install flask
+then use flask first app and run and go and end
